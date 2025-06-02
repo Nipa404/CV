@@ -1,7 +1,7 @@
 # Nico Palosaari
 
 **IT Student at Luovi**  
-📍 Oulu, Finland 
+📍 Oulu, Finland  
 📧 nico.palosaari@oppi.luovi.fi  
 🌐 [github.com/Nipa404](https://github.com/Nipa404)
 
