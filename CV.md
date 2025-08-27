@@ -21,7 +21,7 @@ I'm a second-year IT student at Luovi with a passion for web development and bac
 - Git & GitHub  
 
 **Currently Learning:**   
-- APIs and backend development
+- kotlin and android app development
 
 ---
 
