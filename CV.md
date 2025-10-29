@@ -19,9 +19,7 @@ I'm a second-year IT student at Luovi. I’m currently learning full-stack devel
 - HTML, CSS, JavaScript  
 - Python, Flask  
 - Git & GitHub  
-
-**Currently Learning:**   
-- kotlin and android app development
+- kotlin
 
 ---
 
