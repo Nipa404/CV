@@ -9,7 +9,7 @@
 
 ## 🎯 About Me
 
-I'm a second-year IT student at Luovi with a passion for web development and backend technologies. I’m currently learning full-stack development and enjoy building web apps using Python and Flask. Looking to grow my skills and contribute to real-world projects.
+I'm a second-year IT student at Luovi. I’m currently learning full-stack development and enjoy building web apps using Python and Flask. Looking to grow my skills and contribute to real-world projects.
 
 ---
 
@@ -25,7 +25,7 @@ I'm a second-year IT student at Luovi with a passion for web development and bac
 
 ---
 
-## 💻 Project
+## 💻 Projects
 
 ### 📺 [InfoTV for Classroom](https://github.com/Nipa404/infotv)  
 A digital information display system for the classroom. It shows daily schedules, announcements, and custom messages on a screen.
@@ -33,14 +33,20 @@ A digital information display system for the classroom. It shows daily schedules
 - Built using **HTML**, **CSS**, **JavaScript**, **Python**, and **Flask**
 - Used Flask routes to manage pages and update content dynamically
 - Designed for full-screen display in classrooms
-- Focused on clean UI and real-time updates
+
+
+### 📜 [Notes](https://github.com/Nipa404/Notes)
+Training project for android developement. Note app for android.
+
+- made with Android Studio using **kotlin** and **jetback compose**.
+
 
 ---
 
 ## 🎓 Education
 
 **Luovi Vocational College**  
-*Second-year student in Information Technology*  
+*Third-year student in Information Technology*  
 *Expected graduation: 2026*
 
 ---
@@ -55,5 +61,5 @@ A digital information display system for the classroom. It shows daily schedules
 
 ## 📫 Contact
 
-Feel free to reach out via [GitHub](https://github.com/Nipa404) or email at nico.palosaari@oppi.luovi.fi 
+Feel free to reach out via email at nico.palosaari@oppi.luovi.fi 
 
